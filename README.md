@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marcelo-feliciano-filho
+- 👀 I’m interested in web development and machine learning techniques!
+- 🌱 I’m currently learning docker for webapps, django advanced content and Control Performance Assessment (CPA).
+- 💞️ I’m looking to collaborate on django repositories and matlab content related to CPA or Machine Learning!
